@@ -3,9 +3,9 @@ import discord
 # - Download discord.py https://pypi.org/project/discord.py/ #
 
 client = discord.Client()
-input_guild_id = "839065997704298507"  # <-- Server kterej chceš kopírovat
-output_guild_id = "846505583988179004"  # <-- Server na kterej to chceš dát
-token = "ODQ2MDkwNzI0MTM5NDY2Nzcz.YKu73Q.pgn6D22PQslhWDVLtYYbqiU23_k"  # <-- your token
+input_guild_id = "server_id"  # <-- Server for copying
+output_guild_id = "server_id"  # <-- The server you want to put it on
+token = "token"  # <-- your token
 
 
 print("""\
