@@ -1,2 +1,5 @@
-# Discord-Server-Cloner
-Discord Server Cloner [Python]
+# DiscordSelfbotCloner
+
+Edited: By Darkky.
+
+- Download discord.py https://pypi.org/project/discord.py/
